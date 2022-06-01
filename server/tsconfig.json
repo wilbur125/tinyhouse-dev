@@ -3,7 +3,7 @@
         "target": "ES6",
         "module": "commonjs",
         "rootDir": "./src", 
-        "outDir": "../tinyhouse-deploy/src",
+        "outDir": "../../tinyhouse-deploy/src",
         "esModuleInterop": true,
         "strict": true
     }, 
